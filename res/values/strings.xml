@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prj1</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_message">Arya MotamedHashemi - 91110258</string>
+
+
+    <string name="New_Game">New Game</string>
+    <string name="Save">Save</string>
+    <string name="Load">Load</string>
+
+    <string name="gameMenuTile">Select</string>
+    <string name="SavedGame">Game Saved</string>
+
+
+    <string name="New_Game_Started">New Game Started</string>
+
+</resources>
